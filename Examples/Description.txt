@@ -1,0 +1,3 @@
+This is the first synthesis for
+of this board, so I created a simple circuit that,
+when the button is pressed, toggles the next bit of the LED.
